@@ -2,7 +2,7 @@
 
 Cluster 1: Pre-war, single overhead gear traction elevators
 
-Variables: Single elevator, year built 1916-1937, 6 to 9 floors, overhead gear traction (OG) 
+Variables: Building with single elevator, year built 1916-1937, 6 to 9 floors, overhead gear traction (OG) 
 
 Cluster 3: Pre-war basement elevators
 
