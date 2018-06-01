@@ -1,4 +1,4 @@
-# Cluster Analysis of Elevator Violatoins
+# Cluster Analysis of Elevator Violations
 
 ### Exploratory analysis of types of elevator violations
 
