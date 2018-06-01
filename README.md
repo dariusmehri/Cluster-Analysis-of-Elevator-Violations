@@ -16,3 +16,6 @@ Cluster 4: Post-war, hydraulic and overhead gear traction
 
 Variables: Year built 1938 – 1967, oil hydraulic (OH), overhead grear traction (OG) 
 
+
+![cluster plot 2](https://user-images.githubusercontent.com/11237613/40857907-99fba8f4-65aa-11e8-80ce-8e0f1fba7f06.png)
+
