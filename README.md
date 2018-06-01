@@ -1,5 +1,7 @@
 # Cluster-Analysis-of-Elevator-Violatoins
 
+### Exploratory analysis of types (or categories) of buildings with elevator violations
+
 Cluster 1: Pre-war, single overhead gear traction elevators
 
 Variables: Building with single elevator, year built 1916-1937, 6 to 9 floors, overhead gear traction (OG) 
