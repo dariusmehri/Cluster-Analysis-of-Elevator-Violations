@@ -1,6 +1,6 @@
 # Cluster-Analysis-of-Elevator-Violatoins
 
-### Exploratory analysis of types of buildings with elevator violations
+### Exploratory analysis of types of elevator violations
 
 Cluster 1: Pre-war, single overhead gear traction elevators
 
