@@ -7,8 +7,7 @@
 
 ### Input variables
 
-VIO_CU: 1 = cease use or violation, 0 = no violation or cease use.
-
+VIO_CU: 1 = cease use or violation, 0 = no violation or cease use.\
 Single: 1 = building had a single elevator, 0 = more than one elevator.
 
 CAT1_Unsat: 1 = considered unsafe during CAT 1 inspection, 0 = safe.
