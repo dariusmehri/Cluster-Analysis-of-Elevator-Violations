@@ -1,8 +1,11 @@
 # Risk Analytics using K-Means Clustering
 
-3.5% of residential elevators in NYC buildings receive a violation or cease use order due to routine inspections. The objective of this analysis was to come up with a list of 100 risky buildings to be given to the elevator unit for inspection. Data included 7 years of routine elevator inspections 
+3.5% of residential elevators in NYC buildings receive a violation or cease use order due to routine inspections. The objective of this analysis was to come up with a list of 100 risky buildings to be given to the elevator unit for inspection. 
 
-Input variables: 
+#### Data  
+7 years of routine elevator inspections, elevator and building characteristics
+
+#### Input variables
 
 VIO_CU: 1 = cease use or violation, 0 = no violation or cease use.
 
@@ -23,7 +26,7 @@ Device Type: Gearless traction (GL), oil hydraulic (OH), basement drum (BD), ove
 The elbow method was used to determine the number of clusters, and the data was z-scored to evaluate the results above or below the mean.
 
 
-Results:
+#### Results
 The cluster with the highest rate of violations and cease use included these variables
 Single elevator, previous HPD violation, multi-dwelling, year built between 1916 and 1937, 6 to 9 floors, device type overhead gear traction and basement gear traction.
 
