@@ -23,7 +23,7 @@ The elbow method was used to determine the number of clusters, and the data was 
 The cluster with the highest rate of violations and cease use included these variables:\
 Single elevator, previous HPD violation, multi-dwelling, year built between 1916 and 1937, 6 to 9 floors, device type overhead gear traction and basement gear traction.
 
-Based on the results, the list of active elevators was created by subsetting the list of all active elevators (i.e. removing elevators that did not have a previous HPD violation, years built not within the range of 1916 to 1937, and so on).
+A list of elevators to be targeted for sweeps was created by subsetting the list of all active elevators using the above variables (i.e. removing elevators that did not have a previous HPD violation, years built not within the range of 1916 to 1937, and so on).
 
 A sample of 100 was drawn from the final subsetted list resulting in a threefold increase in the violation and cease use rate (from 3.5% to 15.2%).
 
