@@ -1,4 +1,4 @@
-# Risk Analytics using K-Means Clustering to Generate a List for Sweeps
+# Risk Analytics using K-Means Clustering
 
 3.5% of residential elevators in NYC buildings receive a violation or cease use order due to routine inspections. The objective of this analysis was to come up with a list of 100 risky buildings to be given to the elevator unit for inspection. Data included 7 years of routine elevator inspections 
 
