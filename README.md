@@ -9,16 +9,11 @@
 
 VIO_CU: 1 = cease use or violation, 0 = no violation or cease use.\
 Single: 1 = building had a single elevator, 0 = more than one elevator.\
-CAT1_Unsat: 1 = considered unsafe during CAT 1 inspection, 0 = safe.
-
-hpd_vio: 1 = received previous HPD violation, 0 = no violation.
-
-md: 1 = multi-dwelling, 0 = not multi-dwelling
-
-Age categories based on building code changes: pre_1900, 1900_1915, 1916_1937, 1938_1967, 1968_2007, 2008_2018
-
-Number of floors: 0-5, 6-9, 10-29, and above 29 floors
-
+CAT1_Unsat: 1 = considered unsafe during CAT 1 inspection, 0 = safe.\
+hpd_vio: 1 = received previous HPD violation, 0 = no violation.\
+md: 1 = multi-dwelling, 0 = not multi-dwelling.\
+Age categories based on building code changes: pre_1900, 1900_1915, 1916_1937, 1938_1967, 1968_2007, 2008_2018.\
+Number of floors: 0-5, 6-9, 10-29, and above 29 floors.\
 Device Type: Gearless traction (GL), oil hydraulic (OH), basement drum (BD), overhead gear traction (OG), basement gear traction (BG), overhead drum (OD)
 
 The elbow method was used to determine the number of clusters, and the data was z-scored to evaluate the results above or below the mean.
