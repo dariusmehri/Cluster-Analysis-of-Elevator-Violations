@@ -40,4 +40,5 @@ A sample of 100 was drawn from the final subsetted list resulting in a threefold
 ### Logistic Regression
 Results were very similar to logistic regression:
 
+![image](https://user-images.githubusercontent.com/11237613/40933693-3d02934e-6800-11e8-85ce-ea34ef07006a.png)
 
