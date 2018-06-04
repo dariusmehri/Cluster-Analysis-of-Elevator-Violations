@@ -1,4 +1,4 @@
-# Cluster Analysis of Elevator Violations
+# Cluster Analysis of Elevator Violations and Cease Use, by Machine Type and Building Characteristics
 
 ### Exploratory analysis of types of elevator violations
 
