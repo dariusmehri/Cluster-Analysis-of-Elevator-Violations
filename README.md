@@ -29,7 +29,7 @@ Single elevator, previous HPD violation, multi-dwelling, year built between 1916
 
 Based on the results, the list of active elevators was generate by subsetting the list of all active elevators (i.e. removing elevators that did not have a previous HPD violation, years built not within the range of 1916 to 1937, and so on).
 
-A sample of 100 was drawn from the final subsetted list increased the violation and cease use rate from 3.5% to 
+A sample of 100 was drawn from the final subsetted list resulting in a three fold increase in the violation and cease use rate (from 3.5% to 15.2%)
 
 
 ![cluster plot 2](https://user-images.githubusercontent.com/11237613/40857907-99fba8f4-65aa-11e8-80ce-8e0f1fba7f06.png)
